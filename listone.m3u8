@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/matlevant/OMGTV/raw/refs/heads/main/epg.xml"
+#EXTM3U url-tvg="https://github.com/ComicDread/OMGTV/raw/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (V)
 https://xyz-sosw.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1101559666/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -786,7 +786,7 @@ https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport", DAZN 1 (D)
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-877.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Canadian Premier League - Valour vs Vancouver FC" tvg-name="18:00 Canadian Premier League : Valour vs Vancouver FC - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Valour_vs_Vancouver%20FC.png" group-title="Calcio", Fox Soccer Plus
+#EXTINF:-1 tvg-id="Canadian Premier League - Valour vs Vancouver FC" tvg-name="18:00 Canadian Premier League : Valour vs Vancouver FC - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Valour_vs_Vancouver%20FC.png" group-title="Calcio", Fox Soccer Plus
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-756.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="UEFA Nations League - Germany vs Portugal" tvg-name="21:00 UEFA Nations League : Germany vs Portugal - 04/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749038252_germany-x-portugal.png" group-title="Calcio", TF1 France
@@ -795,22 +795,22 @@ https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/
 #EXTINF:-1 tvg-id="UEFA Nations League - Germany vs Portugal" tvg-name="21:00 UEFA Nations League : Germany vs Portugal - 04/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749038252_germany-x-portugal.png" group-title="Calcio", SuperSport Premier League
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Bublik A." tvg-name="14:00 ATP - ROLAND GARROS : Sinner J. vs Bublik A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Sinner%20J._vs_Bublik%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 16
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Bublik A." tvg-name="14:00 ATP - ROLAND GARROS : Sinner J. vs Bublik A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Sinner%20J._vs_Bublik%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 16
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Bublik A." tvg-name="14:00 ATP - ROLAND GARROS : Sinner J. vs Bublik A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Sinner%20J._vs_Bublik%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 1
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Bublik A." tvg-name="14:00 ATP - ROLAND GARROS : Sinner J. vs Bublik A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Sinner%20J._vs_Bublik%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 1
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Bublik A." tvg-name="14:00 ATP - ROLAND GARROS : Sinner J. vs Bublik A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Sinner%20J._vs_Bublik%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Bublik A." tvg-name="14:00 ATP - ROLAND GARROS : Sinner J. vs Bublik A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Sinner%20J._vs_Bublik%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Djokovic N." tvg-name="20:15 ATP - ROLAND GARROS : Zverev A. vs Djokovic N. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Zverev%20A._vs_Djokovic%20N..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 16
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Djokovic N." tvg-name="20:15 ATP - ROLAND GARROS : Zverev A. vs Djokovic N. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Zverev%20A._vs_Djokovic%20N..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 16
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Djokovic N." tvg-name="20:15 ATP - ROLAND GARROS : Zverev A. vs Djokovic N. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Zverev%20A._vs_Djokovic%20N..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 1
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Djokovic N." tvg-name="20:15 ATP - ROLAND GARROS : Zverev A. vs Djokovic N. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Zverev%20A._vs_Djokovic%20N..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 1
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Djokovic N." tvg-name="20:15 ATP - ROLAND GARROS : Zverev A. vs Djokovic N. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Zverev%20A._vs_Djokovic%20N..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Djokovic N." tvg-name="20:15 ATP - ROLAND GARROS : Zverev A. vs Djokovic N. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Zverev%20A._vs_Djokovic%20N..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Keys M. vs Gauff C." tvg-name="11:00 WTA - ROLAND GARROS : Keys M. vs Gauff C. - 04/06/25" tvg-logo="https://cdn-icons-png.flaticon.com/512/30/30982.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
@@ -822,28 +822,28 @@ https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Keys M. vs Gauff C." tvg-name="11:00 WTA - ROLAND GARROS : Keys M. vs Gauff C. - 04/06/25" tvg-logo="https://cdn-icons-png.flaticon.com/512/30/30982.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 21
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Andreeva M. vs Boisson L." tvg-name="12:30 WTA - ROLAND GARROS : Andreeva M. vs Boisson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Andreeva%20M._vs_Boisson%20L..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Andreeva M. vs Boisson L." tvg-name="12:30 WTA - ROLAND GARROS : Andreeva M. vs Boisson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Andreeva%20M._vs_Boisson%20L..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Andreeva M. vs Boisson L." tvg-name="12:30 WTA - ROLAND GARROS : Andreeva M. vs Boisson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Andreeva%20M._vs_Boisson%20L..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 1
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Andreeva M. vs Boisson L." tvg-name="12:30 WTA - ROLAND GARROS : Andreeva M. vs Boisson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Andreeva%20M._vs_Boisson%20L..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 1
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Andreeva M. vs Boisson L." tvg-name="12:30 WTA - ROLAND GARROS : Andreeva M. vs Boisson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Andreeva%20M._vs_Boisson%20L..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 21
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Andreeva M. vs Boisson L." tvg-name="12:30 WTA - ROLAND GARROS : Andreeva M. vs Boisson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Andreeva%20M._vs_Boisson%20L..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 21
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Dodig I./Luz O. vs Granollers M./Zeballos H." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Dodig I./Luz O. vs Granollers M./Zeballos H. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Zeballos%20H..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 3
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Dodig I./Luz O. vs Granollers M./Zeballos H." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Dodig I./Luz O. vs Granollers M./Zeballos H. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Zeballos%20H..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 3
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Dodig I./Luz O. vs Granollers M./Zeballos H." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Dodig I./Luz O. vs Granollers M./Zeballos H. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Zeballos%20H..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 23
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Dodig I./Luz O. vs Granollers M./Zeballos H." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Dodig I./Luz O. vs Granollers M./Zeballos H. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Zeballos%20H..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 23
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Nys H./Roger-Vasselin E. vs Arends S./Johnson L." tvg-name="13:30 ATP DOUBLES - ROLAND GARROS : Nys H./Roger-Vasselin E. vs Arends S./Johnson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Johnson%20L..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 2
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Nys H./Roger-Vasselin E. vs Arends S./Johnson L." tvg-name="13:30 ATP DOUBLES - ROLAND GARROS : Nys H./Roger-Vasselin E. vs Arends S./Johnson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Johnson%20L..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 2
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Nys H./Roger-Vasselin E. vs Arends S./Johnson L." tvg-name="13:30 ATP DOUBLES - ROLAND GARROS : Nys H./Roger-Vasselin E. vs Arends S./Johnson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Johnson%20L..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 21
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Nys H./Roger-Vasselin E. vs Arends S./Johnson L." tvg-name="13:30 ATP DOUBLES - ROLAND GARROS : Nys H./Roger-Vasselin E. vs Arends S./Johnson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Johnson%20L..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 21
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Nys H./Roger-Vasselin E. vs Arends S./Johnson L." tvg-name="13:30 ATP DOUBLES - ROLAND GARROS : Nys H./Roger-Vasselin E. vs Arends S./Johnson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Johnson%20L..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 22
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Nys H./Roger-Vasselin E. vs Arends S./Johnson L." tvg-name="13:30 ATP DOUBLES - ROLAND GARROS : Nys H./Roger-Vasselin E. vs Arends S./Johnson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Johnson%20L..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 22
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Begu I./Wickmayer Y. vs Eikeri U./Hozumi E." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Begu I./Wickmayer Y. vs Eikeri U./Hozumi E. - 04/06/25" tvg-logo="https://cdn.begagroup.com.au/wp-content/uploads/2024/10/Bega-Logo_800x800-768x768.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 3
@@ -852,19 +852,19 @@ https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Begu I./Wickmayer Y. vs Eikeri U./Hozumi E." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Begu I./Wickmayer Y. vs Eikeri U./Hozumi E. - 04/06/25" tvg-logo="https://cdn.begagroup.com.au/wp-content/uploads/2024/10/Bega-Logo_800x800-768x768.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 23
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Siniakova K./Townsend T. vs Danilina A./Krunic A." tvg-name="12:30 WTA DOUBLES - ROLAND GARROS : Siniakova K./Townsend T. vs Danilina A./Krunic A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Krunic%20A..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 2
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Siniakova K./Townsend T. vs Danilina A./Krunic A." tvg-name="12:30 WTA DOUBLES - ROLAND GARROS : Siniakova K./Townsend T. vs Danilina A./Krunic A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Krunic%20A..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 2
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Siniakova K./Townsend T. vs Danilina A./Krunic A." tvg-name="12:30 WTA DOUBLES - ROLAND GARROS : Siniakova K./Townsend T. vs Danilina A./Krunic A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Krunic%20A..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 21
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Siniakova K./Townsend T. vs Danilina A./Krunic A." tvg-name="12:30 WTA DOUBLES - ROLAND GARROS : Siniakova K./Townsend T. vs Danilina A./Krunic A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Krunic%20A..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 21
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Siniakova K./Townsend T. vs Danilina A./Krunic A." tvg-name="12:30 WTA DOUBLES - ROLAND GARROS : Siniakova K./Townsend T. vs Danilina A./Krunic A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Krunic%20A..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 22
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Siniakova K./Townsend T. vs Danilina A./Krunic A." tvg-name="12:30 WTA DOUBLES - ROLAND GARROS : Siniakova K./Townsend T. vs Danilina A./Krunic A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Krunic%20A..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 22
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Errani S./Vavassori A. vs Zhang S./Arevalo M." tvg-name="14:00 MIXED DOUBLES - ROLAND GARROS : Errani S./Vavassori A. vs Zhang S./Arevalo M. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Arevalo%20M..png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 3
+#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Errani S./Vavassori A. vs Zhang S./Arevalo M." tvg-name="14:00 MIXED DOUBLES - ROLAND GARROS : Errani S./Vavassori A. vs Zhang S./Arevalo M. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Arevalo%20M..png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 3
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Errani S./Vavassori A. vs Zhang S./Arevalo M." tvg-name="14:00 MIXED DOUBLES - ROLAND GARROS : Errani S./Vavassori A. vs Zhang S./Arevalo M. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Arevalo%20M..png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 23
+#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Errani S./Vavassori A. vs Zhang S./Arevalo M." tvg-name="14:00 MIXED DOUBLES - ROLAND GARROS : Errani S./Vavassori A. vs Zhang S./Arevalo M. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Arevalo%20M..png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 23
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Krawczyk D./Skupski N. vs Townsend T./King E." tvg-name="15:30 MIXED DOUBLES - ROLAND GARROS : Krawczyk D./Skupski N. vs Townsend T./King E. - 04/06/25" tvg-logo="https://s.hs-data.com/gfx/competition/png/normal/100x100/14159.png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 3
@@ -1059,16 +1059,16 @@ https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/
 #EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 04/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="NBL - Wellington Saints vs Franklin Bulls" tvg-name="08:00 NBL : Wellington Saints vs Franklin Bulls - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Wellington%20Saints_vs_Franklin%20Bulls.png" group-title="Basket", Sky Sport 3 NZ
+#EXTINF:-1 tvg-id="NBL - Wellington Saints vs Franklin Bulls" tvg-name="08:00 NBL : Wellington Saints vs Franklin Bulls - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Wellington%20Saints_vs_Franklin%20Bulls.png" group-title="Basket", Sky Sport 3 NZ
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-590.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Polish Basketball League - Lublin vs Trefl Sopot" tvg-name="17:30 Polish Basketball League : Lublin vs Trefl Sopot - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/48/3/lublin-logo-png_seeklogo-487661.png" group-title="Basket", Polsat Sport 1 Poland
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Lithuanian League - Playoffs - 1/2 Final (G3) : Rytas vs Lietkabelis" tvg-name="17:50 Lithuanian League: Playoffs - 1/2 Final (G3) : Rytas vs Lietkabelis - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/2%20Final%20%28G3%29%20%3A%20Rytas_vs_Lietkabelis.png" group-title="Basket", Sport Klub 5 Croatia
+#EXTINF:-1 tvg-id="Lithuanian League - Playoffs - 1/2 Final (G3) : Rytas vs Lietkabelis" tvg-name="17:50 Lithuanian League: Playoffs - 1/2 Final (G3) : Rytas vs Lietkabelis - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/2%20Final%20%28G3%29%20%3A%20Rytas_vs_Lietkabelis.png" group-title="Basket", Sport Klub 5 Croatia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-19.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="KLS - FMP Beograd vs Partizan" tvg-name="18:00 KLS : FMP Beograd vs Partizan - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/FMP%20Beograd_vs_Partizan.png" group-title="Basket", Arena 1 Premium Serbia
+#EXTINF:-1 tvg-id="KLS - FMP Beograd vs Partizan" tvg-name="18:00 KLS : FMP Beograd vs Partizan - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/FMP%20Beograd_vs_Partizan.png" group-title="Basket", Arena 1 Premium Serbia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Liga Nationala - Voluntari vs Valcea" tvg-name="18:00 Liga Nationala : Voluntari vs Valcea - 04/06/25" tvg-logo="https://seeklogo.com/images/F/fc-voluntari-logo-B32B264695-seeklogo.com.png" group-title="Basket", Prima Sport 2 Romania
@@ -1077,13 +1077,13 @@ https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/
 #EXTINF:-1 tvg-id="Romania LNBM Mozzart - CSM Oradea vs U-Banca Transilvania Cluj-Napoca" tvg-name="18:00 Romania LNBM Mozzart : CSM Oradea vs U-Banca Transilvania Cluj-Napoca - 04/06/25" tvg-logo="http://100.csmoradea.ro/wp-content/uploads/2020/06/sigla-csm.png" group-title="Basket", Digi Sport 2 Romania
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-401.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Israeli National League Basketball - Hapoel Eilat vs Maccabi Rishon" tvg-name="18:30 Israeli National League Basketball : Hapoel Eilat vs Maccabi Rishon - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Hapoel%20Eilat_vs_Maccabi%20Rishon.png" group-title="Basket", 5 SPORT Israel
+#EXTINF:-1 tvg-id="Israeli National League Basketball - Hapoel Eilat vs Maccabi Rishon" tvg-name="18:30 Israeli National League Basketball : Hapoel Eilat vs Maccabi Rishon - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Hapoel%20Eilat_vs_Maccabi%20Rishon.png" group-title="Basket", 5 SPORT Israel
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="BBL - Wurzburg vs Ulm" tvg-name="18:30 BBL : Wurzburg vs Ulm - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Wurzburg_vs_Ulm.png" group-title="Basket", Arena Sport 6 Serbia
+#EXTINF:-1 tvg-id="BBL - Wurzburg vs Ulm" tvg-name="18:30 BBL : Wurzburg vs Ulm - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Wurzburg_vs_Ulm.png" group-title="Basket", Arena Sport 6 Serbia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-941.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="BBL - Wurzburg vs Ulm" tvg-name="18:30 BBL : Wurzburg vs Ulm - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Wurzburg_vs_Ulm.png" group-title="Basket", Sport 5 Plus Israel
+#EXTINF:-1 tvg-id="BBL - Wurzburg vs Ulm" tvg-name="18:30 BBL : Wurzburg vs Ulm - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Wurzburg_vs_Ulm.png" group-title="Basket", Sport 5 Plus Israel
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ABA League 2 - Ilirija vs Cibona" tvg-name="19:00 ABA League 2 : Ilirija vs Cibona - 04/06/25" tvg-logo="https://seeklogo.com/images/N/nd-ilirija-1911-ljubljana-logo-905906A5F6-seeklogo.com.png" group-title="Basket", Arena Sport 2 Croatia
@@ -1092,79 +1092,79 @@ https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/
 #EXTINF:-1 tvg-id="ABA League 2 - Ilirija vs Cibona" tvg-name="19:00 ABA League 2 : Ilirija vs Cibona - 04/06/25" tvg-logo="https://seeklogo.com/images/N/nd-ilirija-1911-ljubljana-logo-905906A5F6-seeklogo.com.png" group-title="Basket", Arena Sport 8 Serbia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-943.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", Movistar Deportes Spain
+#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", Movistar Deportes Spain
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-436.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", DAZN Eleven 3 Portugal
+#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", DAZN Eleven 3 Portugal
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-457.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", Arena Sport 1 Serbia
+#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", Arena Sport 1 Serbia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-429.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", Cosmote Sport 4 Greece
+#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", Cosmote Sport 4 Greece
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-625.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", Sportdigital+ DE
+#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", Sportdigital+ DE
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-640.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", Sportklub 4 Croatia
+#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", Sportklub 4 Croatia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", Sport 4 Israel
+#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", Sport 4 Israel
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-143.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ORLEN Basket League - Legia Warsaw vs Anwil Włocławek" tvg-name="19:50 ORLEN Basket League : Legia Warsaw vs Anwil Włocławek - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Legia%20Warsaw_vs_Anwil%20W%C5%82oc%C5%82awek.png" group-title="Basket", Polsat Sport 2 Poland
+#EXTINF:-1 tvg-id="ORLEN Basket League - Legia Warsaw vs Anwil Włocławek" tvg-name="19:50 ORLEN Basket League : Legia Warsaw vs Anwil Włocławek - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Legia%20Warsaw_vs_Anwil%20W%C5%82oc%C5%82awek.png" group-title="Basket", Polsat Sport 2 Poland
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="KLS - Crvena Zvezda Meridianbet vs Spartak Office Shoes" tvg-name="20:00 KLS : Crvena Zvezda Meridianbet vs Spartak Office Shoes - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Crvena%20Zvezda%20Meridianbet_vs_Spartak%20Office%20Shoes.png" group-title="Basket", Arena 1 Premium Serbia
+#EXTINF:-1 tvg-id="KLS - Crvena Zvezda Meridianbet vs Spartak Office Shoes" tvg-name="20:00 KLS : Crvena Zvezda Meridianbet vs Spartak Office Shoes - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Crvena%20Zvezda%20Meridianbet_vs_Spartak%20Office%20Shoes.png" group-title="Basket", Arena 1 Premium Serbia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Panathinaikos_vs_Olympiakos.png" group-title="Basket", Arena 3 Premium Serbia
+#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Panathinaikos_vs_Olympiakos.png" group-title="Basket", Arena 3 Premium Serbia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Panathinaikos_vs_Olympiakos.png" group-title="Basket", ERT 3 Greece
+#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Panathinaikos_vs_Olympiakos.png" group-title="Basket", ERT 3 Greece
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-9.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Panathinaikos_vs_Olympiakos.png" group-title="Basket", Sportklub 2 Croatia
+#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Panathinaikos_vs_Olympiakos.png" group-title="Basket", Sportklub 2 Croatia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Panathinaikos_vs_Olympiakos.png" group-title="Basket", Sport 3 Israel
+#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Panathinaikos_vs_Olympiakos.png" group-title="Basket", Sport 3 Israel
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-142.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="BBL - MLP Academics Heidelberg vs. Bayern Munich" tvg-name="19:55 BBL : MLP Academics Heidelberg vs. Bayern Munich - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/MLP%20Academics%20Heidelberg_vs_Bayern%20Munich.png" group-title="Basket", Arena Sport 2 Slovakia
+#EXTINF:-1 tvg-id="BBL - MLP Academics Heidelberg vs. Bayern Munich" tvg-name="19:55 BBL : MLP Academics Heidelberg vs. Bayern Munich - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/MLP%20Academics%20Heidelberg_vs_Bayern%20Munich.png" group-title="Basket", Arena Sport 2 Slovakia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-20.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="BBL - MLP Academics Heidelberg vs. Bayern Munich" tvg-name="19:55 BBL : MLP Academics Heidelberg vs. Bayern Munich - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/MLP%20Academics%20Heidelberg_vs_Bayern%20Munich.png" group-title="Basket", Arena Sport 5 Serbia
+#EXTINF:-1 tvg-id="BBL - MLP Academics Heidelberg vs. Bayern Munich" tvg-name="19:55 BBL : MLP Academics Heidelberg vs. Bayern Munich - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/MLP%20Academics%20Heidelberg_vs_Bayern%20Munich.png" group-title="Basket", Arena Sport 5 Serbia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-940.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="BBL - MLP Academics Heidelberg vs. Bayern Munich" tvg-name="19:55 BBL : MLP Academics Heidelberg vs. Bayern Munich - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/MLP%20Academics%20Heidelberg_vs_Bayern%20Munich.png" group-title="Basket", Sport 5 Live Israel
+#EXTINF:-1 tvg-id="BBL - MLP Academics Heidelberg vs. Bayern Munich" tvg-name="19:55 BBL : MLP Academics Heidelberg vs. Bayern Munich - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/MLP%20Academics%20Heidelberg_vs_Bayern%20Munich.png" group-title="Basket", Sport 5 Live Israel
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Lega A - Brescia vs Trapani" tvg-name="20:45 Lega A : Brescia vs Trapani - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Brescia_vs_Trapani.png" group-title="Basket", Rai Sport 1 IT
+#EXTINF:-1 tvg-id="Lega A - Brescia vs Trapani" tvg-name="20:45 Lega A : Brescia vs Trapani - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Brescia_vs_Trapani.png" group-title="Basket", Rai Sport 1 IT
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Lega A - Brescia vs Trapani" tvg-name="20:45 Lega A : Brescia vs Trapani - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Brescia_vs_Trapani.png" group-title="Basket", Eurosport 2 IT
+#EXTINF:-1 tvg-id="Lega A - Brescia vs Trapani" tvg-name="20:45 Lega A : Brescia vs Trapani - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Brescia_vs_Trapani.png" group-title="Basket", Eurosport 2 IT
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Lega A - Brescia vs Trapani" tvg-name="20:45 Lega A : Brescia vs Trapani - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Brescia_vs_Trapani.png" group-title="Basket", Arena Sport 1 Croatia
+#EXTINF:-1 tvg-id="Lega A - Brescia vs Trapani" tvg-name="20:45 Lega A : Brescia vs Trapani - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Brescia_vs_Trapani.png" group-title="Basket", Arena Sport 1 Croatia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-432.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Lega A - Brescia vs Trapani" tvg-name="20:45 Lega A : Brescia vs Trapani - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Brescia_vs_Trapani.png" group-title="Basket", Arena Sport 6 Serbia
+#EXTINF:-1 tvg-id="Lega A - Brescia vs Trapani" tvg-name="20:45 Lega A : Brescia vs Trapani - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Brescia_vs_Trapani.png" group-title="Basket", Arena Sport 6 Serbia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-941.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Lega A - Brescia vs Trapani" tvg-name="20:45 Lega A : Brescia vs Trapani - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Brescia_vs_Trapani.png" group-title="Basket", Cosmote Sport 8 Greece
+#EXTINF:-1 tvg-id="Lega A - Brescia vs Trapani" tvg-name="20:45 Lega A : Brescia vs Trapani - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Brescia_vs_Trapani.png" group-title="Basket", Cosmote Sport 8 Greece
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-629.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FranceLNB - Paris vs JL Bourg" tvg-name="21:00 FranceLNB : Paris vs JL Bourg - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Paris_vs_JL%20Bourg.png" group-title="Basket", Sport Klub 5 Croatia
+#EXTINF:-1 tvg-id="FranceLNB - Paris vs JL Bourg" tvg-name="21:00 FranceLNB : Paris vs JL Bourg - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Paris_vs_JL%20Bourg.png" group-title="Basket", Sport Klub 5 Croatia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-19.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FranceLNB - Paris vs JL Bourg" tvg-name="21:00 FranceLNB : Paris vs JL Bourg - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Paris_vs_JL%20Bourg.png" group-title="Basket", Sport 5 Plus Israel
+#EXTINF:-1 tvg-id="FranceLNB - Paris vs JL Bourg" tvg-name="21:00 FranceLNB : Paris vs JL Bourg - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Paris_vs_JL%20Bourg.png" group-title="Basket", Sport 5 Plus Israel
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Friendly Games Women - France vs. Belgium" tvg-name="21:00 Friendly Games Women : France vs. Belgium - 04/06/25" tvg-logo="https://logodix.com/logo/408419.png" group-title="Basket", LEQUIPE France
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-645.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Basquetebol - FC Porto vs Sporting CP - Camp. Nacional" tvg-name="21:00 Basquetebol: FC Porto vs Sporting CP - Camp. Nacional - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/FC%20Porto_vs_Sporting%20CP%20-%20Camp.%20Nacional.png" group-title="Basket", DAZN Eleven 1 Portugal
+#EXTINF:-1 tvg-id="Basquetebol - FC Porto vs Sporting CP - Camp. Nacional" tvg-name="21:00 Basquetebol: FC Porto vs Sporting CP - Camp. Nacional - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/FC%20Porto_vs_Sporting%20CP%20-%20Camp.%20Nacional.png" group-title="Basket", DAZN Eleven 1 Portugal
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-455.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket", Movistar Deportes Spain
@@ -1224,19 +1224,19 @@ https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/
 #EXTINF:-1 tvg-id="Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km) - Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km)" tvg-name="13:30 Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km) - 04/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", Eurosport 2 SE
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - France vs. Turkiye" tvg-name="05:30 Nations League Women : France vs. Turkiye - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/France_vs_Turkiye.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Nations League Women - France vs. Turkiye" tvg-name="05:30 Nations League Women : France vs. Turkiye - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/France_vs_Turkiye.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - France vs. Turkiye" tvg-name="05:30 Nations League Women : France vs. Turkiye - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/France_vs_Turkiye.png" group-title="Pallavolo", Max Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="Nations League Women - France vs. Turkiye" tvg-name="05:30 Nations League Women : France vs. Turkiye - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/France_vs_Turkiye.png" group-title="Pallavolo", Max Sport 2 Bulgaria
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - France vs. Turkiye" tvg-name="05:30 Nations League Women : France vs. Turkiye - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/France_vs_Turkiye.png" group-title="Pallavolo", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="Nations League Women - France vs. Turkiye" tvg-name="05:30 Nations League Women : France vs. Turkiye - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/France_vs_Turkiye.png" group-title="Pallavolo", Sport Klub 1 Croatia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Thailand vs Poland" tvg-name="09:00 Nations League Women : Thailand vs Poland - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Thailand_vs_Poland.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Nations League Women - Thailand vs Poland" tvg-name="09:00 Nations League Women : Thailand vs Poland - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Thailand_vs_Poland.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Thailand vs Poland" tvg-name="09:00 Nations League Women : Thailand vs Poland - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Thailand_vs_Poland.png" group-title="Pallavolo", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="Nations League Women - Thailand vs Poland" tvg-name="09:00 Nations League Women : Thailand vs Poland - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Thailand_vs_Poland.png" group-title="Pallavolo", Sport Klub 1 Croatia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League Women - China vs. Belgium" tvg-name="13:30 Nations League Women : China vs. Belgium - 04/06/25" tvg-logo="https://logoeps.com/wp-content/uploads/2013/08/leading-chinese-company-logo-templates.png" group-title="Pallavolo", Polsat Sport 1 Poland
@@ -1248,43 +1248,43 @@ https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/
 #EXTINF:-1 tvg-id="Nations League Women - China vs. Belgium" tvg-name="13:30 Nations League Women : China vs. Belgium - 04/06/25" tvg-logo="https://logoeps.com/wp-content/uploads/2013/08/leading-chinese-company-logo-templates.png" group-title="Pallavolo", Sport Klub 1 Croatia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Netherlands vs Japan" tvg-name="17:00 Nations League Women : Netherlands vs Japan - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Netherlands_vs_Japan.png" group-title="Pallavolo", Polsat Sport 2 Poland
+#EXTINF:-1 tvg-id="Nations League Women - Netherlands vs Japan" tvg-name="17:00 Nations League Women : Netherlands vs Japan - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Netherlands_vs_Japan.png" group-title="Pallavolo", Polsat Sport 2 Poland
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Netherlands vs Japan" tvg-name="17:00 Nations League Women : Netherlands vs Japan - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Netherlands_vs_Japan.png" group-title="Pallavolo", Arena Premium 3 Serbia
+#EXTINF:-1 tvg-id="Nations League Women - Netherlands vs Japan" tvg-name="17:00 Nations League Women : Netherlands vs Japan - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Netherlands_vs_Japan.png" group-title="Pallavolo", Arena Premium 3 Serbia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Netherlands vs Japan" tvg-name="17:00 Nations League Women : Netherlands vs Japan - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Netherlands_vs_Japan.png" group-title="Pallavolo", RTVS Sport Slovakia HD
+#EXTINF:-1 tvg-id="Nations League Women - Netherlands vs Japan" tvg-name="17:00 Nations League Women : Netherlands vs Japan - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Netherlands_vs_Japan.png" group-title="Pallavolo", RTVS Sport Slovakia HD
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-3.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Netherlands vs Japan" tvg-name="17:00 Nations League Women : Netherlands vs Japan - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Netherlands_vs_Japan.png" group-title="Pallavolo", Sport Klub 2 Croatia
+#EXTINF:-1 tvg-id="Nations League Women - Netherlands vs Japan" tvg-name="17:00 Nations League Women : Netherlands vs Japan - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Netherlands_vs_Japan.png" group-title="Pallavolo", Sport Klub 2 Croatia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - USA vs. Italy" tvg-name="19:00 Nations League Women : USA vs. Italy - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/USA_vs_Italy.png" group-title="Pallavolo", CBS Sports Network
+#EXTINF:-1 tvg-id="Nations League Women - USA vs. Italy" tvg-name="19:00 Nations League Women : USA vs. Italy - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/USA_vs_Italy.png" group-title="Pallavolo", CBS Sports Network
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-308.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - USA vs. Italy" tvg-name="19:00 Nations League Women : USA vs. Italy - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/USA_vs_Italy.png" group-title="Pallavolo", Arena Sport 4 Serbia
+#EXTINF:-1 tvg-id="Nations League Women - USA vs. Italy" tvg-name="19:00 Nations League Women : USA vs. Italy - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/USA_vs_Italy.png" group-title="Pallavolo", Arena Sport 4 Serbia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-581.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - USA vs. Italy" tvg-name="19:00 Nations League Women : USA vs. Italy - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/USA_vs_Italy.png" group-title="Pallavolo", Polsat Sport 3 Poland
+#EXTINF:-1 tvg-id="Nations League Women - USA vs. Italy" tvg-name="19:00 Nations League Women : USA vs. Italy - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/USA_vs_Italy.png" group-title="Pallavolo", Polsat Sport 3 Poland
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-129.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - USA vs. Italy" tvg-name="19:00 Nations League Women : USA vs. Italy - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/USA_vs_Italy.png" group-title="Pallavolo", Sportv2 Brazil
+#EXTINF:-1 tvg-id="Nations League Women - USA vs. Italy" tvg-name="19:00 Nations League Women : USA vs. Italy - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/USA_vs_Italy.png" group-title="Pallavolo", Sportv2 Brazil
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - USA vs. Italy" tvg-name="19:00 Nations League Women : USA vs. Italy - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/USA_vs_Italy.png" group-title="Pallavolo", Max Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="Nations League Women - USA vs. Italy" tvg-name="19:00 Nations League Women : USA vs. Italy - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/USA_vs_Italy.png" group-title="Pallavolo", Max Sport 2 Bulgaria
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - USA vs. Italy" tvg-name="19:00 Nations League Women : USA vs. Italy - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/USA_vs_Italy.png" group-title="Pallavolo", Sport Klub HD Croatia
+#EXTINF:-1 tvg-id="Nations League Women - USA vs. Italy" tvg-name="19:00 Nations League Women : USA vs. Italy - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/USA_vs_Italy.png" group-title="Pallavolo", Sport Klub HD Croatia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Dominican Republic vs Serbia" tvg-name="22:00 Nations League Women : Dominican Republic vs Serbia - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Dominican%20Republic_vs_Serbia.png" group-title="Pallavolo", Arena Premium 1 Serbia
+#EXTINF:-1 tvg-id="Nations League Women - Dominican Republic vs Serbia" tvg-name="22:00 Nations League Women : Dominican Republic vs Serbia - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Dominican%20Republic_vs_Serbia.png" group-title="Pallavolo", Arena Premium 1 Serbia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Dominican Republic vs Serbia" tvg-name="22:00 Nations League Women : Dominican Republic vs Serbia - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Dominican%20Republic_vs_Serbia.png" group-title="Pallavolo", Polsat Sport Premium PPV 3 Poland
+#EXTINF:-1 tvg-id="Nations League Women - Dominican Republic vs Serbia" tvg-name="22:00 Nations League Women : Dominican Republic vs Serbia - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Dominican%20Republic_vs_Serbia.png" group-title="Pallavolo", Polsat Sport Premium PPV 3 Poland
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-22.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Dominican Republic vs Serbia" tvg-name="22:00 Nations League Women : Dominican Republic vs Serbia - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Dominican%20Republic_vs_Serbia.png" group-title="Pallavolo", Sport Klub HD Croatia
+#EXTINF:-1 tvg-id="Nations League Women - Dominican Republic vs Serbia" tvg-name="22:00 Nations League Women : Dominican Republic vs Serbia - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Dominican%20Republic_vs_Serbia.png" group-title="Pallavolo", Sport Klub HD Croatia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League Women - Czech Republic vs Brazil" tvg-name="22:30 Nations League Women : Czech Republic vs Brazil - 04/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/czech-republic-national-emblem-logo-png-transparent.png" group-title="Pallavolo", Polsat Sport 2 Poland
@@ -1296,13 +1296,13 @@ https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/
 #EXTINF:-1 tvg-id="Nations League Women - Czech Republic vs Brazil" tvg-name="22:30 Nations League Women : Czech Republic vs Brazil - 04/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/czech-republic-national-emblem-logo-png-transparent.png" group-title="Pallavolo", Sport Klub 3 Croatia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Bulgaria vs. Canada" tvg-name="01:30 Nations League Women : Bulgaria vs. Canada - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Bulgaria_vs_Canada.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Nations League Women - Bulgaria vs. Canada" tvg-name="01:30 Nations League Women : Bulgaria vs. Canada - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Bulgaria_vs_Canada.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Bulgaria vs. Canada" tvg-name="01:30 Nations League Women : Bulgaria vs. Canada - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Bulgaria_vs_Canada.png" group-title="Pallavolo", Max Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="Nations League Women - Bulgaria vs. Canada" tvg-name="01:30 Nations League Women : Bulgaria vs. Canada - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Bulgaria_vs_Canada.png" group-title="Pallavolo", Max Sport 2 Bulgaria
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Bulgaria vs. Canada" tvg-name="01:30 Nations League Women : Bulgaria vs. Canada - 04/06/25" tvg-logo="https://raw.githubusercontent.com/matlevant/OMGTV/main/logos/Bulgaria_vs_Canada.png" group-title="Pallavolo", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="Nations League Women - Bulgaria vs. Canada" tvg-name="01:30 Nations League Women : Bulgaria vs. Canada - 04/06/25" tvg-logo="https://raw.githubusercontent.com/ComicDread/OMGTV/main/logos/Bulgaria_vs_Canada.png" group-title="Pallavolo", Sport Klub 1 Croatia
 https://xyz-sosw.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League Women - South Korea vs Germany" tvg-name="02:00 Nations League Women : South Korea vs Germany - 04/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749038252_germany-x-portugal.png" group-title="Pallavolo", Polsat Sport 2 Poland
